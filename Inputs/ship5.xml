@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ships</folder>
+	<filename>ship5.jpg</filename>
+	<path>/home/mes-prch/Downloads/ships/ship5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>877</width>
+		<height>761</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>634</xmin>
+			<ymin>521</ymin>
+			<xmax>782</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+</annotation>
